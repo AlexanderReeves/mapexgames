@@ -4,7 +4,7 @@ image{border:none;}
 .clearing{clear:both;}
 
 .header-wrapper{width:100%; height:auto; background:#222156; overflow:hidden;}
-.header{width:960px; margin:0 auto; margin-top:70px; overflow:hidden;}
+.header{width:100%; margin:0 auto; margin-top:0px; overflow:hidden;}
 .header-content{width:960px; height:100px; background:url(../images/top-strip.gif) no-repeat;}
 
 .logo{width:360px; float:left;}
@@ -18,8 +18,8 @@ image{border:none;}
 .menu li a.active{color:#ffc103; background:url(../images/menu-h.gif);}
 
 
-.banner{width:960px; height:371px; background:url(../images/banner-img.jpg) no-repeat; margin:0 auto;}
-.banner-content{width:500px; float:left; padding-top:140px;}
+.banner{height:371px; background:url(../images/banner-img.jpg) no-repeat; margin:0 auto;}
+.banner-content{width:500px; float:left; padding-top:50px;margin-left:50px;}
 .banner-content h2{font-size:26px; font-weight:normal; color:#22a8f0;}
 .banner-content h1{font-family: 'Playfair Display', serif; font-size:38px; font-weight:normal; color:#ffc103; padding-bottom:50px;}
 .banner-content ul{list-style:none;}
@@ -58,7 +58,7 @@ a.more:hover{width:90px; height:30px; line-height:30px; font-family: 'Playfair D
 .slider-content{width:598px; margin:0 auto;}
 .slider-left-arrow{width:16px; height:22px; float:left; margin-top:86px; background:url(../images/icon-arrow-left.gif) no-repeat left;}
 .slider-right-arrow{width:16px; height:22px; float:right; margin-top:86px; background:url(../images/icon-arrow-right.gif) no-repeat right;}
-.slider-image{width:530px; height:136px; float:left; padding-left:20px; padding-top:30px;}
+.slider-image{width:530px; height:136px; float:left; padding-left:20px; padding-top:15px; border-radius: 15px; }
 
 .content1{width:630px; float:left; padding-bottom:60px;}
 .content1 h1{font-family: 'Playfair Display', serif; font-size:22px; font-weight:normal; color:#22a8f0;}
